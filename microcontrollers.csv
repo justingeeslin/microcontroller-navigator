@@ -1,0 +1,5 @@
+Name,URL,Brand Name,Price,Bluetooth,WiFi,Microphone,IMU,mA H,Length (mm),Width (mm),Arduino IDE Compatible,TensorFlow Compatible
+Arduino Nano 33 IoT,https://store-usa.arduino.cc/products/arduino-nano-33-iot?selectedStore=us,Arduino,$25.50,TRUE,FALSE,TRUE,TRUE,,45,18,TRUE,FALSE
+Arduino Nano RP2040 Connect,https://store-usa.arduino.cc/products/arduino-nano-rp2040-connect-with-headers?selectedStore=us,Arduino,,TRUE,TRUE,FALSE,TRUE,,45,18,TRUE,FALSE
+Arduino Nano 33 BLE Sense,https://store-usa.arduino.cc/products/arduino-nano-33-ble-sense?selectedStore=us,Arduino,$40.50,TRUE,FALSE,TRUE,TRUE,,45,18,TRUE,TRUE
+Arduino Nano 33 BLE,https://store-usa.arduino.cc/products/arduino-nano-33-ble?pr_prod_strat=use_description&pr_rec_id=90d98c71d&pr_rec_pid=6544093708495&pr_ref_pid=6544093872335&pr_seq=uniform,Arduino,26.30,TRUE,FALSE,FALSE,TRUE,,45,18,TRUE,FALSE
